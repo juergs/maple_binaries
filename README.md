@@ -8,7 +8,8 @@ MapleCULx4.bin flash after bootloader ...
 Result version for a-culfw:
 V 1.24.02 a-culfw Build: private build (unknown) MapleCULx4_03 (F-Band: 868MHz)
 
-sources from: https://github.com/heliflieger/a-culfw/tree/master/culfw
+sources from: https://github.com/heliflieger/a-culfw/tree/master/culfw or from
+https://github.com/Telekatz/a-culfw/tree/MapleSduino/culfw/Devices/MapleCUN
 
 How-To compile with WSL:
 https://forum.fhem.de/index.php/topic,106278.msg1037755.html#msg1037755
