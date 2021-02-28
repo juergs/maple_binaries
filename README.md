@@ -18,11 +18,13 @@ Reach Windows folder from WSL in this manner:
 
 Edit Makefile to use right version:
 
-- *CC=/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/**arm-none-eabi-gcc** *
 
-- *OBJCOPY=/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/**arm-none-eabi-objcopy** *
+- *CC=/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/arm-none-eabi-gcc*
 
-- *SIZE=/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/**arm-none-eabi-size** *
+- *OBJCOPY=/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/arm-none-eabi-objcopy*
+
+- *SIZE=/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/arm-none-eabi-size*
+
 
 Some more infos can be found there:
 https://wiki.fhem.de/wiki/MapleCUN#Bootloader_flashen
