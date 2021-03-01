@@ -35,3 +35,5 @@ https://wiki.fhem.de/wiki/MapleCUN#Bootloader_flashen
 
 ![Image of MapleCUL2x-Schmatic](https://github.com/juergs/maple_binaries/blob/main/Locutus_mapleculx2_schematic.png)
 
+![Image of MapleCUL2x-Pinout_differences](https://github.com/juergs/maple_binaries/blob/main/MapleCul_vs_MapleSDuino_Pinzuordnung.png)
+
