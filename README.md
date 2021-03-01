@@ -33,3 +33,5 @@ https://wiki.fhem.de/wiki/MapleCUN#Bootloader_flashen
 
 ![Image of MapleCUL2x](https://github.com/juergs/maple_binaries/blob/main/Eigenbau_MapleCUL%20_MapleCUN.png)
 
+![Image of MapleCUL2x-Schmatic](https://github.com/juergs/maple_binaries/blob/main/Eigenbau_MapleCUL%20_MapleCUN.png)
+
