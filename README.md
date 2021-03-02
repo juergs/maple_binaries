@@ -17,6 +17,7 @@ https://forum.fhem.de/index.php/topic,106278.msg1037755.html#msg1037755
 
 Fhem-Thread:
 https://forum.fhem.de/index.php/topic,80872.msg729752.html#msg729752
+https://forum.fhem.de/index.php/topic,60458.msg621959.html#msg621959
 
 Reach Windows folder from WSL in this manner:
 /mnt/d/Work_FHEM/_maple_sduino/_projects/a-culfw-telekatz.1.26.08/a-culfw/culfw/Devices/MapleCUN
