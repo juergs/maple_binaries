@@ -32,7 +32,7 @@ Edit Makefile to use right version:
 - *SIZE=/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/arm-none-eabi-size*
 
 
-Some more infos can be found there:
+Some more infos could be found there:
 https://wiki.fhem.de/wiki/MapleCUN#Bootloader_flashen
 
 ![Image of MapleCUL2x](https://github.com/juergs/maple_binaries/blob/main/Eigenbau_MapleCUL%20_MapleCUN.png)
