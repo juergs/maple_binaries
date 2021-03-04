@@ -40,8 +40,7 @@ Edit Makefile to use right version:
 *  (? is unknown) Use one of B b C F i A Z N E k G M K L U Y R T V W X O e f l p t x z * *
 ```
 
-Some more infos could be found there:
-https://wiki.fhem.de/wiki/MapleCUN#Bootloader_flashen
+Some more infos could be found there: [flash bootloader](https://wiki.fhem.de/wiki/MapleCUN#Bootloader_flashen)
 
 ![Image of MapleCUL2x](https://github.com/juergs/maple_binaries/blob/main/Eigenbau_MapleCUL%20_MapleCUN.png)
 
