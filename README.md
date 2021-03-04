@@ -33,8 +33,8 @@ Edit Makefile to use right version:
 
 [code and compiling] (https://github.com/juergs/a-culfw-telekatz-MapleCUL2x)
 
-*V 1.26.08 a-culfw Build: private build (juergs-MRZ-2021) MapleCULx2 (F-Band: 868MHz)
-*? (? is unknown) Use one of B b C F i A Z N E k G M K L U Y R T V W X O e f l p t x z *
+*V 1.26.08 a-culfw Build: private build (juergs-MRZ-2021) MapleCULx2 (F-Band: 868MHz)*
+*? (? is unknown) Use one of B b C F i A Z N E k G M K L U Y R T V W X O e f l p t x z **
 
 Some more infos could be found there:
 https://wiki.fhem.de/wiki/MapleCUN#Bootloader_flashen
