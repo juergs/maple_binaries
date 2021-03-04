@@ -8,8 +8,8 @@ MapleCULx4.bin flash after bootloader ...
 Result version for a-culfw:
 V 1.24.02 a-culfw Build: private build (unknown) MapleCULx4_03 (F-Band: 868MHz)
 
-sources from: https://github.com/heliflieger/a-culfw/tree/master/culfw or from
-https://github.com/Telekatz/a-culfw/tree/MapleSduino/culfw
+sources from: https://github.com/heliflieger/a-culfw/tree/master/culfw 
+or from [here] (https://github.com/Telekatz/a-culfw/tree/MapleSduino/culfw)
 Actual Version is 1.26.08
 
 How-To compile with WSL:
@@ -23,7 +23,6 @@ Reach Windows folder from WSL in this manner:
 /mnt/d/Work_FHEM/_maple_sduino/_projects/a-culfw-telekatz.1.26.08/a-culfw/culfw/Devices/MapleCUN
 
 Edit Makefile to use right version:
-
 
 - *CC=/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/arm-none-eabi-gcc*
 
