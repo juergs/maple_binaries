@@ -12,8 +12,7 @@ sources from: https://github.com/heliflieger/a-culfw/tree/master/culfw
 or from [here] (https://github.com/Telekatz/a-culfw/tree/MapleSduino/culfw)
 Actual version is 1.26.08 adapted to MapleCUL2x-Board from locutus: [here](https://github.com/juergs/a-culfw-telekatz-MapleCUL2x/blob/master/README.md)
 
-How-To compile with WSL:
-https://forum.fhem.de/index.php/topic,106278.msg1037755.html#msg1037755
+How-To compile with [WSL](https://forum.fhem.de/index.php/topic,106278.msg1037755.html#msg1037755)
 
 Fhem-Thread:
 https://forum.fhem.de/index.php/topic,80872.msg729752.html#msg729752
