@@ -5,10 +5,12 @@ maple_mini_boot20.bin is bootloader over serial for stm32flash via *stm32flash -
 
 Flash suitable bootloader before! 
 
-Result version for a-culfw:
+Obsolete version for a-culfw:
+```
 V 1.24.02 a-culfw Build: private build (unknown) MapleCULx4_03 (F-Band: 868MHz)
+```
 
-original sources from: [Heliflieger](https://github.com/heliflieger/a-culfw/tree/master/culfw) or from Telekatz [here](https://github.com/Telekatz/a-culfw/tree/MapleSduino/culfw)
+Original sources from: [Heliflieger](https://github.com/heliflieger/a-culfw/tree/master/culfw) or from Telekatz [here](https://github.com/Telekatz/a-culfw/tree/MapleSduino/culfw)
 
 Actual version is 1.26.08 adapted to MapleCUL2x-Board from locutus: [here](https://github.com/juergs/a-culfw-telekatz-MapleCUL2x/blob/master/README.md)
 
