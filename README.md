@@ -14,12 +14,11 @@ Actual version is 1.26.08 adapted to MapleCUL2x-Board from locutus: [here](https
 
 How-To compile with [WSL](https://forum.fhem.de/index.php/topic,106278.msg1037755.html#msg1037755)
 
-Fhem-Thread:
-https://forum.fhem.de/index.php/topic,80872.msg729752.html#msg729752
-https://forum.fhem.de/index.php/topic,60458.msg621959.html#msg621959
+- [Fhem-Thread 1](https://forum.fhem.de/index.php/topic,80872.msg729752.html#msg729752)
+- [Fhem-Thread 2](https://forum.fhem.de/index.php/topic,60458.msg621959.html#msg621959)
 
 Reach Windows folder from WSL in this manner:
-/mnt/d/Work_FHEM/_maple_sduino/_projects/a-culfw-telekatz.1.26.08/a-culfw/culfw/Devices/MapleCUN
+*/mnt/d/Work_FHEM/_maple_sduino/_projects/a-culfw-telekatz.1.26.08/a-culfw/culfw/Devices/MapleCUN*
 
 Edit Makefile to use right version:
 
