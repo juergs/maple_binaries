@@ -1,9 +1,9 @@
 # maple_binaries
 Locutus MapleMini Firmware variant, _without_ USB-Bootloader (!):
-maple_mini_boot20.bin is bootloader over serial for stm32flash 
-stm32flash -w maple_mini_boot20.bin /dev/ttyUSB0
 
-MapleCULx4.bin flash after bootloader ...
+maple_mini_boot20.bin is bootloader over serial for stm32flash via *stm32flash -w maple_mini_boot20.bin /dev/ttyUSB0*
+
+Flash suitable bootloader before! 
 
 Result version for a-culfw:
 V 1.24.02 a-culfw Build: private build (unknown) MapleCULx4_03 (F-Band: 868MHz)
