@@ -1,5 +1,5 @@
 # maple_binaries
-Locutus MapleMini Firmware variant, _without_ USB-Bootloader (!):
+Locutus MapleMini Hardware + Firmware variant, _without_ USB-Bootloader (!):
 
 maple_mini_boot20.bin is bootloader over serial for stm32flash via *stm32flash -w maple_mini_boot20.bin /dev/ttyUSB0*
 
